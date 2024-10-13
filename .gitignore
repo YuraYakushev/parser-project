@@ -1,0 +1,14 @@
+# *.json
+.vscode
+
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+myenv/
+.env
